@@ -108,14 +108,14 @@ export default function Home() {
             description="A complete overhaul of an data management app platform focusing on improving conversion rates and user engagement."
             imageSrc="/placeholder.svg?height=300&width=400"
             tags={["UI Design", "UX Research", "Figma"]}
-            link="#"
+            link="https://www.figma.com/proto/WHaBVeVImY0WIsKrgOgAsH/JAMII-MOBILE-APP?node-id=202-1924&p=f&t=9vWVAzYWKJPbPiBs-1&scaling=scale-down&content-scaling=fixed&page-id=202%3A1923&starting-point-node-id=202%3A1924"
           />
           <ProjectCard
             title="Academic Writing Website"
             description="A web platform that helps students discover and order for academic help on essays ,thesis and projects."
             imageSrc="/placeholder.svg?height=300&width=400"
             tags={["Web Design", "Wireframing", "Prototyping"]}
-            link="#"
+            link="https://www.georgiaessays.com/"
           />
           
         </div>
